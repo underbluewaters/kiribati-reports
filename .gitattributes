@@ -1,0 +1,15 @@
+data/dist/benthic-features.fgb filter=lfs diff=lfs merge=lfs -text
+data/dist/reef-extent.fgb filter=lfs diff=lfs merge=lfs -text
+data/src/reef-extent.fgb filter=lfs diff=lfs merge=lfs -text
+data/src/bathy-merged.fgb filter=lfs diff=lfs merge=lfs -text
+data/src/seamounts-clipped.fgb filter=lfs diff=lfs merge=lfs -text
+data/dist/kiribati-eez.fgb filter=lfs diff=lfs merge=lfs -text
+data/dist/reef-bioregions.fgb filter=lfs diff=lfs merge=lfs -text
+data/dist/seamounts.fgb filter=lfs diff=lfs merge=lfs -text
+data/dist/bathy.fgb filter=lfs diff=lfs merge=lfs -text
+data/dist/deepwater-bioregions.fgb filter=lfs diff=lfs merge=lfs -text
+data/src/KIR_deepwater_bioregions_7.5.fgb filter=lfs diff=lfs merge=lfs -text
+data/src/KIR_reef-associated_bioregions_7.5.fgb filter=lfs diff=lfs merge=lfs -text
+data/dist/geomorphic-features.fgb filter=lfs diff=lfs merge=lfs -text
+data/src/benthic-features.fgb filter=lfs diff=lfs merge=lfs -text
+data/src/geomorphic-features.fgb filter=lfs diff=lfs merge=lfs -text
