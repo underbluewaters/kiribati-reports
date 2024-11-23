@@ -1,0 +1,39 @@
+{
+  "sketchArea": [
+    {
+      "sketchName": "Area C",
+      "area": 25187133071.984127,
+      "groupAreas": [
+        {
+          "islandGroup": "Phoenix Group",
+          "area": 25187133071.984127,
+          "fractionOfGroup": 0.0336260094963459
+        }
+      ]
+    },
+    {
+      "sketchName": "Area B",
+      "area": 13864049473.343779,
+      "groupAreas": [
+        {
+          "islandGroup": "Gilbert Islands",
+          "area": 13864049473.343779,
+          "fractionOfGroup": 0.013100185481631227
+        }
+      ]
+    },
+    {
+      "sketchName": "Area A",
+      "area": 9964623905.21094,
+      "groupAreas": [
+        {
+          "islandGroup": "Gilbert Islands",
+          "area": 9964623905.21094,
+          "fractionOfGroup": 0.009415605567763176
+        }
+      ]
+    }
+  ],
+  "totalArea": 49015806450.53884,
+  "eezArea": 3455932746348.7095
+}

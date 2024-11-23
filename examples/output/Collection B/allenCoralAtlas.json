@@ -1,0 +1,844 @@
+{
+  "metrics": [
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Coral/Algae",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Coral/Algae",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Coral/Algae",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Coral/Algae",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 3797230.441124,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Coral/Algae",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 3797230.441124,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Microalgal Mats",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Microalgal Mats",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Microalgal Mats",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Microalgal Mats",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 352203.800638,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Microalgal Mats",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 352203.800638,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Rock",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Rock",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Rock",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Rock",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 4355191.565007,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Rock",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 4355191.565007,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Rubble",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Rubble",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Rubble",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Rubble",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 988717.533813,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Rubble",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 988717.533813,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Sand",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Sand",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Sand",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Sand",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 6944052.101093,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Sand",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 6944052.101093,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Seagrass",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Seagrass",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Seagrass",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Seagrass",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 95051.786084,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Seagrass",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 95051.786084,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Back Reef Slope",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Back Reef Slope",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Back Reef Slope",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Back Reef Slope",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 6988335.372489,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Back Reef Slope",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 6988335.372489,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Deep Lagoon",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Deep Lagoon",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Deep Lagoon",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Deep Lagoon",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 5592947.379893,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Deep Lagoon",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 5592947.379893,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Inner Reef Flat",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Inner Reef Flat",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Inner Reef Flat",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Inner Reef Flat",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 681940.390637,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Inner Reef Flat",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 681940.390637,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Outer Reef Flat",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Outer Reef Flat",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Outer Reef Flat",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Outer Reef Flat",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 3195833.171144,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Outer Reef Flat",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 3195833.171144,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Plateau",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Plateau",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Plateau",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Plateau",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 1848425.663781,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Plateau",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 1848425.663781,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Reef Crest",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Reef Crest",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Reef Crest",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Reef Crest",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 839660.95355,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Reef Crest",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 839660.95355,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Reef Slope",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Reef Slope",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Reef Slope",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Reef Slope",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 2115888.097104,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Reef Slope",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 2115888.097104,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Shallow Lagoon",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Shallow Lagoon",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Shallow Lagoon",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Shallow Lagoon",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 3735003.357199,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Shallow Lagoon",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 3735003.357199,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Sheltered Reef Slope",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Sheltered Reef Slope",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Sheltered Reef Slope",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Sheltered Reef Slope",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 103730.28005,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Sheltered Reef Slope",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 103730.28005,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    }
+  ]
+}

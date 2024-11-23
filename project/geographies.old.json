@@ -1,0 +1,55 @@
+[
+  {
+    "geographyId": "world",
+    "datasourceId": "world",
+    "display": "World",
+    "groups": [],
+    "precalc": true
+  },
+  {
+    "geographyId": "kiribati-eez",
+    "datasourceId": "kiribati-eez",
+    "display": "Kiribati EEZ",
+    "groups": ["default-boundary"],
+    "precalc": true
+  },
+  {
+    "geographyId": "gilbert-islands",
+    "datasourceId": "kiribati-eez",
+    "display": "Gilbert Islands",
+    "groups": [],
+    "propertyFilters": [
+      {
+        "property": "UNION",
+        "value": "Gilbert Islands"
+      }
+    ],
+    "precalc": true
+  },
+  {
+    "geographyId": "phoenix-islands",
+    "datasourceId": "kiribati-eez",
+    "display": "Phoenix Islands",
+    "groups": [],
+    "propertyFilters": [
+      {
+        "property": "UNION",
+        "value": "Phoenix Group"
+      }
+    ],
+    "precalc": true
+  },
+  {
+    "geographyId": "line-islands",
+    "datasourceId": "kiribati-eez",
+    "display": "Line Islands",
+    "groups": [],
+    "propertyFilters": [
+      {
+        "property": "UNION",
+        "value": "Line Group"
+      }
+    ],
+    "precalc": true
+  }
+]

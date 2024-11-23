@@ -1,0 +1,70 @@
+{
+  "metrics": [
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Coral/Algae",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 802925.828182,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Microalgal Mats",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 77619.569068,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Rock",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 2469234.577687,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Rubble",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 988609.000829,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Sand",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 2241365.573035,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Seagrass",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 2443412.061813,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    }
+  ]
+}

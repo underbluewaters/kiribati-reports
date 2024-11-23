@@ -1,0 +1,103 @@
+{
+  "metrics": [
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Back Reef Slope",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 6988335.372489,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Deep Lagoon",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 5592947.379893,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Inner Reef Flat",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 681940.390637,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Outer Reef Flat",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 3195833.171144,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Plateau",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 1848425.663781,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Reef Crest",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 839660.95355,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Reef Slope",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 2115888.097104,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Shallow Lagoon",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 3735003.357199,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Sheltered Reef Slope",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 103730.28005,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2434 @@
+{
+  "metrics": [
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Boudeuse Ridge",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Boudeuse Ridge",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Boudeuse Ridge",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Boudeuse Ridge",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Central Gilbert",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 45599859.638981,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Central Gilbert",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 7781592595.151645,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Central Gilbert",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Central Gilbert",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 7827192454.790626,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Cook Island  - Kiribati Abyssal Range",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Cook Island  - Kiribati Abyssal Range",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Cook Island  - Kiribati Abyssal Range",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Cook Island  - Kiribati Abyssal Range",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Dolmah",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Dolmah",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Dolmah",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Dolmah",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East Line Islands and French Polynesia Northern Tip",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East Line Islands and French Polynesia Northern Tip",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East Line Islands and French Polynesia Northern Tip",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East Line Islands and French Polynesia Northern Tip",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East of Minneapolis Ridge",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East of Minneapolis Ridge",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East of Minneapolis Ridge",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East of Minneapolis Ridge",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East West Christmas Islands Boarders",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East West Christmas Islands Boarders",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East West Christmas Islands Boarders",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East West Christmas Islands Boarders",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East West Kingman and Palmyra",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East West Kingman and Palmyra",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East West Kingman and Palmyra",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East West Kingman and Palmyra",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Flint and Vostok Islands Deep",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Flint and Vostok Islands Deep",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Flint and Vostok Islands Deep",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Flint and Vostok Islands Deep",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Gardner Island and North Cooks Boarder",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Gardner Island and North Cooks Boarder",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Gardner Island and North Cooks Boarder",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Gardner Island and North Cooks Boarder",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Gilbert Ridge",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 9919050737.808924,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Gilbert Ridge",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Gilbert Ridge",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Gilbert Ridge",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 9919050737.808924,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Gilbert, Tuvalu High Seas",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Gilbert, Tuvalu High Seas",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Gilbert, Tuvalu High Seas",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Gilbert, Tuvalu High Seas",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Jarvis Deep",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Jarvis Deep",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Jarvis Deep",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Jarvis Deep",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Keats Reef Deep",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Keats Reef Deep",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Keats Reef Deep",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Keats Reef Deep",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "King Seamount",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "King Seamount",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "King Seamount",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "King Seamount",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kingman, Palmyra and North Line Group",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kingman, Palmyra and North Line Group",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kingman, Palmyra and North Line Group",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kingman, Palmyra and North Line Group",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kingsman Basin and Magellan Rise",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kingsman Basin and Magellan Rise",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kingsman Basin and Magellan Rise",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kingsman Basin and Magellan Rise",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kiribati - High Seas Line Island Group & Menard Ridge",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kiribati - High Seas Line Island Group & Menard Ridge",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kiribati - High Seas Line Island Group & Menard Ridge",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kiribati - High Seas Line Island Group & Menard Ridge",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kiribati - Howard and Baker Island Abyssal Range",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kiribati - Howard and Baker Island Abyssal Range",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kiribati - Howard and Baker Island Abyssal Range",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kiribati - Howard and Baker Island Abyssal Range",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kiritimati Deep",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kiritimati Deep",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kiritimati Deep",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kiritimati Deep",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Lakina to Northern Tokelau Submerged Seamounts",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Lakina to Northern Tokelau Submerged Seamounts",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Lakina to Northern Tokelau Submerged Seamounts",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Lakina to Northern Tokelau Submerged Seamounts",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Line and North French Polynesia",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Line and North French Polynesia",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Line and North French Polynesia",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Line and North French Polynesia",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Line East West Boarders and High Seas",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Line East West Boarders and High Seas",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Line East West Boarders and High Seas",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Line East West Boarders and High Seas",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Line, Cooks and French Polynesia High Seas",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Line, Cooks and French Polynesia High Seas",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Line, Cooks and French Polynesia High Seas",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Line, Cooks and French Polynesia High Seas",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Majuro, Arno and Mili Atolls",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Majuro, Arno and Mili Atolls",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Majuro, Arno and Mili Atolls",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Majuro, Arno and Mili Atolls",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Malden and Schlanger",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Malden and Schlanger",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Malden and Schlanger",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Malden and Schlanger",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Manihiki and Tokelau to South Phoenix",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Manihiki and Tokelau to South Phoenix",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Manihiki and Tokelau to South Phoenix",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Manihiki and Tokelau to South Phoenix",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Marshall and Gilbert High Seas",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Marshall and Gilbert High Seas",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Marshall and Gilbert High Seas",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Marshall and Gilbert High Seas",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Nauru Marshall and Gilbert Abyssal",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Nauru Marshall and Gilbert Abyssal",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Nauru Marshall and Gilbert Abyssal",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Nauru Marshall and Gilbert Abyssal",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North Ahe and Manihi",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North Ahe and Manihi",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North Ahe and Manihi",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North Ahe and Manihi",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North Cooks, Line and High Seas",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North Cooks, Line and High Seas",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North Cooks, Line and High Seas",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North Cooks, Line and High Seas",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North East Christmas Boarder",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North East Christmas Boarder",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North East Christmas Boarder",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North East Christmas Boarder",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North French Polynesia",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North French Polynesia",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North French Polynesia",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North French Polynesia",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North Kingman Reef",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North Kingman Reef",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North Kingman Reef",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North Kingman Reef",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Northeast Gilbert",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Northeast Gilbert",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Northeast Gilbert",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Northeast Gilbert",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Northeast Phoenix and High Seas",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Northeast Phoenix and High Seas",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Northeast Phoenix and High Seas",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Northeast Phoenix and High Seas",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Northeast Tuvalu to Southern Phoenix Boarder",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Northeast Tuvalu to Southern Phoenix Boarder",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Northeast Tuvalu to Southern Phoenix Boarder",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Northeast Tuvalu to Southern Phoenix Boarder",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Nova Trough and Celestial Seamount",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Nova Trough and Celestial Seamount",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Nova Trough and Celestial Seamount",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 5864918783.562515,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Nova Trough and Celestial Seamount",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 5864918783.562515,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Penrhyn Basin",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Penrhyn Basin",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Penrhyn Basin",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Penrhyn Basin",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Phoenix Seamounts",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Phoenix Seamounts",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Phoenix Seamounts",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 19322064301.26627,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Phoenix Seamounts",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 19322064301.26627,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Rungata, Tamana and Arorae DeeP",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Rungata, Tamana and Arorae DeeP",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Rungata, Tamana and Arorae DeeP",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Rungata, Tamana and Arorae DeeP",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Seamounts of Micronesia",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Seamounts of Micronesia",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Seamounts of Micronesia",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Seamounts of Micronesia",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South (Banaba) Ocean Island",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South (Banaba) Ocean Island",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South (Banaba) Ocean Island",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South (Banaba) Ocean Island",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South Christmas Island",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South Christmas Island",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South Christmas Island",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South Christmas Island",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South Gilbert Boarder",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South Gilbert Boarder",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 6082261675.307853,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South Gilbert Boarder",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South Gilbert Boarder",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 6082261675.307853,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South Nauru and Gilbert Boarder",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South Nauru and Gilbert Boarder",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South Nauru and Gilbert Boarder",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South Nauru and Gilbert Boarder",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Southern Marshall Island Abyssal Range",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Southern Marshall Island Abyssal Range",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Southern Marshall Island Abyssal Range",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Southern Marshall Island Abyssal Range",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Starbuck and high seas",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Starbuck and high seas",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Starbuck and high seas",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Starbuck and high seas",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Tabuaeran/Fanning Deep",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Tabuaeran/Fanning Deep",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Tabuaeran/Fanning Deep",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Tabuaeran/Fanning Deep",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Tuvalu Nui, Boarder and Cooper Seamount",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Tuvalu Nui, Boarder and Cooper Seamount",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Tuvalu Nui, Boarder and Cooper Seamount",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Tuvalu Nui, Boarder and Cooper Seamount",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "US and Line Islands Group High Seas",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "US and Line Islands Group High Seas",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "US and Line Islands Group High Seas",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "US and Line Islands Group High Seas",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Victoria Fracture Zone",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Victoria Fracture Zone",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Victoria Fracture Zone",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Victoria Fracture Zone",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Washington Island and Christmas Ridge",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Washington Island and Christmas Ridge",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Washington Island and Christmas Ridge",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Washington Island and Christmas Ridge",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Winslow Reef Deep",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Winslow Reef Deep",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Winslow Reef Deep",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Winslow Reef Deep",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection A",
+        "isCollection": true
+      }
+    }
+  ]
+}

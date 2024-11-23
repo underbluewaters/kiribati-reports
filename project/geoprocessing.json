@@ -1,0 +1,34 @@
+{
+  "author": "Chad Burt <chad@underbluewaters.net>",
+  "organization": "The Spatial Collaborative",
+  "region": "us-west-2",
+  "clients": [
+    {
+      "name": "TabReport",
+      "description": "Report suite with tab navigation",
+      "source": "src/clients/TabReport.tsx"
+    },
+    {
+      "name": "SimpleReport",
+      "description": "Sketch size",
+      "source": "src/clients/SimpleReport.tsx"
+    }
+  ],
+  "preprocessingFunctions": [
+    "src/functions/validatePolygon.ts",
+    "src/functions/clipToLand.ts",
+    "src/functions/clipToOcean.ts",
+    "src/functions/clipToOceanEez.ts"
+  ],
+  "geoprocessingFunctions": [
+    "src/functions/simpleFunction.ts",
+    "src/functions/deepwaterBioregions.ts",
+    "src/functions/reefBioregions.ts",
+    "src/functions/geomorphicFeatures.ts",
+    "src/functions/benthicFeatures.ts",
+    "src/functions/reefExtent.ts",
+    "src/functions/depth.ts",
+    "src/functions/seamounts.ts",
+    "src/functions/area.ts"
+  ]
+}

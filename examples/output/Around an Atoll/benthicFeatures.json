@@ -1,0 +1,70 @@
+{
+  "metrics": [
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Coral/Algae",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 3797230.441124,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Microalgal Mats",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 352203.800638,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Rock",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 4355191.565007,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Rubble",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 988717.533813,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Sand",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 6944052.101093,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Seagrass",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 95051.786084,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    }
+  ]
+}

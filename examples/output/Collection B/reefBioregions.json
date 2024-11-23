@@ -1,0 +1,620 @@
+{
+  "metrics": [
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Butaritari associated reefs",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Butaritari associated reefs",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Butaritari associated reefs",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Butaritari associated reefs",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Butaritari associated reefs",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Canton to Phoenix Islands Chain",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Canton to Phoenix Islands Chain",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Canton to Phoenix Islands Chain",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Canton to Phoenix Islands Chain",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Canton to Phoenix Islands Chain",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Christmas Islands and nearby Atolls",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Christmas Islands and nearby Atolls",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Christmas Islands and nearby Atolls",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Christmas Islands and nearby Atolls",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Christmas Islands and nearby Atolls",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Fanning and Tautua Islands",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Fanning and Tautua Islands",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Fanning and Tautua Islands",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Fanning and Tautua Islands",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Fanning and Tautua Islands",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Flint and South Islands",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Flint and South Islands",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Flint and South Islands",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Flint and South Islands",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Flint and South Islands",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Mckean to Manra cluster",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Mckean to Manra cluster",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Mckean to Manra cluster",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Mckean to Manra cluster",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 89397139.953281,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Mckean to Manra cluster",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 89397139.953281,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Nonouti and South Gilbert Atolls",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Nonouti and South Gilbert Atolls",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Nonouti and South Gilbert Atolls",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Nonouti and South Gilbert Atolls",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Nonouti and South Gilbert Atolls",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "North Gibert Atolls",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "North Gibert Atolls",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "North Gibert Atolls",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "North Gibert Atolls",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "North Gibert Atolls",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Ocean Island",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Ocean Island",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Ocean Island",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Ocean Island",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Ocean Island",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Washington Island",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Washington Island",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Washington Island",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Washington Island",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Washington Island",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Winslow Reef",
+      "sketchId": "54806",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area A"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Winslow Reef",
+      "sketchId": "54807",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area B"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Winslow Reef",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Winslow Reef",
+      "sketchId": "54809",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Collection B",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Winslow Reef",
+      "sketchId": "54875",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Around an Atoll"
+      }
+    }
+  ]
+}

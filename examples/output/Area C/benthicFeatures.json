@@ -1,0 +1,70 @@
+{
+  "metrics": [
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Coral/Algae",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Microalgal Mats",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Rock",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Rubble",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Sand",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Seagrass",
+      "sketchId": "54808",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Area C"
+      }
+    }
+  ]
+}

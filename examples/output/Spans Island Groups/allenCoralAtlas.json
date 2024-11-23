@@ -1,0 +1,169 @@
+{
+  "metrics": [
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Coral/Algae",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Microalgal Mats",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Rock",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Rubble",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Sand",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "benthicFeatures",
+      "classId": "Seagrass",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Back Reef Slope",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Deep Lagoon",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Inner Reef Flat",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Outer Reef Flat",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Plateau",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Reef Crest",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Reef Slope",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Shallow Lagoon",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "geomorphicFeatures",
+      "classId": "Sheltered Reef Slope",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    }
+  ]
+}

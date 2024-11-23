@@ -1,0 +1,22 @@
+{
+  "sketchArea": [
+    {
+      "sketchName": "Spans Island Groups",
+      "area": 204231214765.35983,
+      "groupAreas": [
+        {
+          "islandGroup": "Gilbert Islands",
+          "area": 53802997500.6282,
+          "fractionOfGroup": 0.05083862749344168
+        },
+        {
+          "islandGroup": "Phoenix Group",
+          "area": 150428217264.73163,
+          "fractionOfGroup": 0.20082875839047531
+        }
+      ]
+    }
+  ],
+  "totalArea": 204231214765.35983,
+  "eezArea": 3455932746348.7095
+}

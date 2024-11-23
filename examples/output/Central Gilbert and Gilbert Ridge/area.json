@@ -1,0 +1,17 @@
+{
+  "sketchArea": [
+    {
+      "sketchName": "Central Gilbert and Gilbert Ridge",
+      "area": 9391862322.542677,
+      "groupAreas": [
+        {
+          "islandGroup": "Gilbert Islands",
+          "area": 9391862322.542677,
+          "fractionOfGroup": 0.008874401283680566
+        }
+      ]
+    }
+  ],
+  "totalArea": 9391862322.542677,
+  "eezArea": 3455932746348.7095
+}

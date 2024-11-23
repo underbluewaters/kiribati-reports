@@ -1,0 +1,521 @@
+[
+  {
+    "metricId": "reefExtent",
+    "type": "areaOverlap",
+    "classes": []
+  },
+  {
+    "metricId": "deepwaterBioregions",
+    "type": "areaOverlap",
+    "classes": [
+      {
+        "classId": "Gilbert, Tuvalu High Seas",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Gilbert, Tuvalu High Seas"
+      },
+      {
+        "classId": "Lakina to Northern Tokelau Submerged Seamounts",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Lakina to Northern Tokelau Submerged Seamounts"
+      },
+      {
+        "classId": "South Gilbert Boarder",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "South Gilbert Boarder"
+      },
+      {
+        "classId": "South Nauru and Gilbert Boarder",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "South Nauru and Gilbert Boarder"
+      },
+      {
+        "classId": "Central Gilbert",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Central Gilbert"
+      },
+      {
+        "classId": "Rungata, Tamana and Arorae DeeP",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Rungata, Tamana and Arorae DeeP"
+      },
+      {
+        "classId": "South (Banaba) Ocean Island",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "South (Banaba) Ocean Island"
+      },
+      {
+        "classId": "Gilbert Ridge",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Gilbert Ridge"
+      },
+      {
+        "classId": "Kiribati - Howard and Baker Island Abyssal Range",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Kiribati - Howard and Baker Island Abyssal Range"
+      },
+      {
+        "classId": "Nauru Marshall and Gilbert Abyssal",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Nauru Marshall and Gilbert Abyssal"
+      },
+      {
+        "classId": "Northeast Gilbert",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Northeast Gilbert"
+      },
+      {
+        "classId": "King Seamount",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "King Seamount"
+      },
+      {
+        "classId": "Victoria Fracture Zone",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Victoria Fracture Zone"
+      },
+      {
+        "classId": "Seamounts of Micronesia",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Seamounts of Micronesia"
+      },
+      {
+        "classId": "Majuro, Arno and Mili Atolls",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Majuro, Arno and Mili Atolls"
+      },
+      {
+        "classId": "Southern Marshall Island Abyssal Range",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Southern Marshall Island Abyssal Range"
+      },
+      {
+        "classId": "Keats Reef Deep",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Keats Reef Deep"
+      },
+      {
+        "classId": "Marshall and Gilbert High Seas",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Marshall and Gilbert High Seas"
+      },
+      {
+        "classId": "Kingsman Basin and Magellan Rise",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Kingsman Basin and Magellan Rise"
+      },
+      {
+        "classId": "North Kingman Reef",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "North Kingman Reef"
+      },
+      {
+        "classId": "Kingman, Palmyra and North Line Group",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Kingman, Palmyra and North Line Group"
+      },
+      {
+        "classId": "East West Kingman and Palmyra",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "East West Kingman and Palmyra"
+      },
+      {
+        "classId": "Washington Island and Christmas Ridge",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Washington Island and Christmas Ridge"
+      },
+      {
+        "classId": "Tabuaeran/Fanning Deep",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Tabuaeran/Fanning Deep"
+      },
+      {
+        "classId": "East of Minneapolis Ridge",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "East of Minneapolis Ridge"
+      },
+      {
+        "classId": "North East Christmas Boarder",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "North East Christmas Boarder"
+      },
+      {
+        "classId": "East West Christmas Islands Boarders",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "East West Christmas Islands Boarders"
+      },
+      {
+        "classId": "US and Line Islands Group High Seas",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "US and Line Islands Group High Seas"
+      },
+      {
+        "classId": "Kiritimati Deep",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Kiritimati Deep"
+      },
+      {
+        "classId": "Dolmah",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Dolmah"
+      },
+      {
+        "classId": "Jarvis Deep",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Jarvis Deep"
+      },
+      {
+        "classId": "South Christmas Island",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "South Christmas Island"
+      },
+      {
+        "classId": "Kiribati - High Seas Line Island Group & Menard Ridge",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Kiribati - High Seas Line Island Group & Menard Ridge"
+      },
+      {
+        "classId": "East Line Islands and French Polynesia Northern Tip",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "East Line Islands and French Polynesia Northern Tip"
+      },
+      {
+        "classId": "Northeast Phoenix and High Seas",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Northeast Phoenix and High Seas"
+      },
+      {
+        "classId": "Winslow Reef Deep",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Winslow Reef Deep"
+      },
+      {
+        "classId": "Nova Trough and Celestial Seamount",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Nova Trough and Celestial Seamount"
+      },
+      {
+        "classId": "Phoenix Seamounts",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Phoenix Seamounts"
+      },
+      {
+        "classId": "Malden and Schlanger",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Malden and Schlanger"
+      },
+      {
+        "classId": "Boudeuse Ridge",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Boudeuse Ridge"
+      },
+      {
+        "classId": "North French Polynesia",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "North French Polynesia"
+      },
+      {
+        "classId": "Line East West Boarders and High Seas",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Line East West Boarders and High Seas"
+      },
+      {
+        "classId": "Gardner Island and North Cooks Boarder",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Gardner Island and North Cooks Boarder"
+      },
+      {
+        "classId": "Cook Island  - Kiribati Abyssal Range",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Cook Island  - Kiribati Abyssal Range"
+      },
+      {
+        "classId": "Northeast Tuvalu to Southern Phoenix Boarder",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Northeast Tuvalu to Southern Phoenix Boarder"
+      },
+      {
+        "classId": "Manihiki and Tokelau to South Phoenix",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Manihiki and Tokelau to South Phoenix"
+      },
+      {
+        "classId": "Tuvalu Nui, Boarder and Cooper Seamount",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Tuvalu Nui, Boarder and Cooper Seamount"
+      },
+      {
+        "classId": "Penrhyn Basin",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Penrhyn Basin"
+      },
+      {
+        "classId": "North Cooks, Line and High Seas",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "North Cooks, Line and High Seas"
+      },
+      {
+        "classId": "Starbuck and high seas",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Starbuck and high seas"
+      },
+      {
+        "classId": "Line and North French Polynesia",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Line and North French Polynesia"
+      },
+      {
+        "classId": "Flint and Vostok Islands Deep",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Flint and Vostok Islands Deep"
+      },
+      {
+        "classId": "Line, Cooks and French Polynesia High Seas",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "Line, Cooks and French Polynesia High Seas"
+      },
+      {
+        "classId": "North Ahe and Manihi",
+        "datasourceId": "deepwater-bioregions",
+        "classKey": "UNION",
+        "display": "North Ahe and Manihi"
+      }
+    ]
+  },
+  {
+    "metricId": "reefBioregions",
+    "type": "areaOverlap",
+    "classes": [
+      {
+        "classId": "Nonouti and South Gilbert Atolls",
+        "datasourceId": "reef-bioregions",
+        "classKey": "Name",
+        "display": "Nonouti and South Gilbert Atolls"
+      },
+      {
+        "classId": "Ocean Island",
+        "datasourceId": "reef-bioregions",
+        "classKey": "Name",
+        "display": "Ocean Island"
+      },
+      {
+        "classId": "North Gibert Atolls",
+        "datasourceId": "reef-bioregions",
+        "classKey": "Name",
+        "display": "North Gibert Atolls"
+      },
+      {
+        "classId": "Butaritari associated reefs",
+        "datasourceId": "reef-bioregions",
+        "classKey": "Name",
+        "display": "Butaritari associated reefs"
+      },
+      {
+        "classId": "Fanning and Tautua Islands",
+        "datasourceId": "reef-bioregions",
+        "classKey": "Name",
+        "display": "Fanning and Tautua Islands"
+      },
+      {
+        "classId": "Washington Island",
+        "datasourceId": "reef-bioregions",
+        "classKey": "Name",
+        "display": "Washington Island"
+      },
+      {
+        "classId": "Christmas Islands and nearby Atolls",
+        "datasourceId": "reef-bioregions",
+        "classKey": "Name",
+        "display": "Christmas Islands and nearby Atolls"
+      },
+      {
+        "classId": "Winslow Reef",
+        "datasourceId": "reef-bioregions",
+        "classKey": "Name",
+        "display": "Winslow Reef"
+      },
+      {
+        "classId": "Canton to Phoenix Islands Chain",
+        "datasourceId": "reef-bioregions",
+        "classKey": "Name",
+        "display": "Canton to Phoenix Islands Chain"
+      },
+      {
+        "classId": "Mckean to Manra cluster",
+        "datasourceId": "reef-bioregions",
+        "classKey": "Name",
+        "display": "Mckean to Manra cluster"
+      },
+      {
+        "classId": "Flint and South Islands",
+        "datasourceId": "reef-bioregions",
+        "classKey": "Name",
+        "display": "Flint and South Islands"
+      }
+    ]
+  },
+  {
+    "metricId": "benthicFeatures",
+    "type": "areaOverlap",
+    "classes": [
+      {
+        "classId": "Coral/Algae",
+        "datasourceId": "benthic-features",
+        "classKey": "class",
+        "display": "Coral/Algae"
+      },
+      {
+        "classId": "Rock",
+        "datasourceId": "benthic-features",
+        "classKey": "class",
+        "display": "Rock"
+      },
+      {
+        "classId": "Rubble",
+        "datasourceId": "benthic-features",
+        "classKey": "class",
+        "display": "Rubble"
+      },
+      {
+        "classId": "Sand",
+        "datasourceId": "benthic-features",
+        "classKey": "class",
+        "display": "Sand"
+      },
+      {
+        "classId": "Seagrass",
+        "datasourceId": "benthic-features",
+        "classKey": "class",
+        "display": "Seagrass"
+      },
+      {
+        "classId": "Microalgal Mats",
+        "datasourceId": "benthic-features",
+        "classKey": "class",
+        "display": "Microalgal Mats"
+      }
+    ]
+  },
+  {
+    "metricId": "geomorphicFeatures",
+    "type": "areaOverlap",
+    "classes": [
+      {
+        "classId": "Sheltered Reef Slope",
+        "datasourceId": "geomorphic-features",
+        "classKey": "class",
+        "display": "Sheltered Reef Slope"
+      },
+      {
+        "classId": "Reef Slope",
+        "datasourceId": "geomorphic-features",
+        "classKey": "class",
+        "display": "Reef Slope"
+      },
+      {
+        "classId": "Deep Lagoon",
+        "datasourceId": "geomorphic-features",
+        "classKey": "class",
+        "display": "Deep Lagoon"
+      },
+      {
+        "classId": "Reef Crest",
+        "datasourceId": "geomorphic-features",
+        "classKey": "class",
+        "display": "Reef Crest"
+      },
+      {
+        "classId": "Outer Reef Flat",
+        "datasourceId": "geomorphic-features",
+        "classKey": "class",
+        "display": "Outer Reef Flat"
+      },
+      {
+        "classId": "Inner Reef Flat",
+        "datasourceId": "geomorphic-features",
+        "classKey": "class",
+        "display": "Inner Reef Flat"
+      },
+      {
+        "classId": "Back Reef Slope",
+        "datasourceId": "geomorphic-features",
+        "classKey": "class",
+        "display": "Back Reef Slope"
+      },
+      {
+        "classId": "Shallow Lagoon",
+        "datasourceId": "geomorphic-features",
+        "classKey": "class",
+        "display": "Shallow Lagoon"
+      },
+      {
+        "classId": "Plateau",
+        "datasourceId": "geomorphic-features",
+        "classKey": "class",
+        "display": "Plateau"
+      }
+    ]
+  },
+  {
+    "metricId": "reefExtent",
+    "type": "areaOverlap",
+    "classes": [{
+      "classId": "Reef",
+      "datasourceId": "reef-extent",
+      "display": "reefExtent",
+      "classKey": "class"
+    }]
+  }
+]

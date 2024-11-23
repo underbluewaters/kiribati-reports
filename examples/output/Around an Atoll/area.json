@@ -1,0 +1,17 @@
+{
+  "sketchArea": [
+    {
+      "sketchName": "Around an Atoll",
+      "area": 832360081.9222115,
+      "groupAreas": [
+        {
+          "islandGroup": "Phoenix Group",
+          "area": 832360081.9222115,
+          "fractionOfGroup": 0.0011112399310832203
+        }
+      ]
+    }
+  ],
+  "totalArea": 832360081.9222115,
+  "eezArea": 3455932746348.7095
+}

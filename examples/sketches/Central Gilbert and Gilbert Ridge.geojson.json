@@ -1,0 +1,32 @@
+{
+  "id": 54602,
+  "bbox": [172.32959, -1.1607678, 173.66867, -0.12732913],
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [172.796917328, -0.127329131],
+        [172.329587448, -0.756405178],
+        [173.183363191, -1.160767828],
+        [173.668667297, -0.405926345],
+        [172.796917328, -0.127329131]
+      ]
+    ]
+  },
+  "properties": {
+    "8716": "CentralGilbert and GilbertRidge",
+    "id": "54602",
+    "name": "Central Gilbert and Gilbert Ridge",
+    "postId": null,
+    "userId": "1",
+    "userSlug": "Chad Burt",
+    "createdAt": "2024-11-19T15:53:20.126169+00:00",
+    "updatedAt": "2024-11-19T15:53:20.126169+00:00",
+    "collectionId": null,
+    "isCollection": false,
+    "sharedInForum": false,
+    "sketchClassId": "1148",
+    "userAttributes": null
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "metrics": [
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Butaritari associated reefs",
+      "sketchId": "54602",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Central Gilbert and Gilbert Ridge"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Canton to Phoenix Islands Chain",
+      "sketchId": "54602",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Central Gilbert and Gilbert Ridge"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Christmas Islands and nearby Atolls",
+      "sketchId": "54602",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Central Gilbert and Gilbert Ridge"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Fanning and Tautua Islands",
+      "sketchId": "54602",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Central Gilbert and Gilbert Ridge"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Flint and South Islands",
+      "sketchId": "54602",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Central Gilbert and Gilbert Ridge"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Mckean to Manra cluster",
+      "sketchId": "54602",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Central Gilbert and Gilbert Ridge"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Nonouti and South Gilbert Atolls",
+      "sketchId": "54602",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Central Gilbert and Gilbert Ridge"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "North Gibert Atolls",
+      "sketchId": "54602",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Central Gilbert and Gilbert Ridge"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Ocean Island",
+      "sketchId": "54602",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Central Gilbert and Gilbert Ridge"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Washington Island",
+      "sketchId": "54602",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Central Gilbert and Gilbert Ridge"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Winslow Reef",
+      "sketchId": "54602",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Central Gilbert and Gilbert Ridge"
+      }
+    }
+  ]
+}

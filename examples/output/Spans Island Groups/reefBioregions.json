@@ -1,0 +1,125 @@
+{
+  "metrics": [
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Butaritari associated reefs",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Canton to Phoenix Islands Chain",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Christmas Islands and nearby Atolls",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Fanning and Tautua Islands",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Flint and South Islands",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Mckean to Manra cluster",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 54122561.281928,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Nonouti and South Gilbert Atolls",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "North Gibert Atolls",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Ocean Island",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Washington Island",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "reefBioregions",
+      "classId": "Winslow Reef",
+      "sketchId": "55064",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Spans Island Groups"
+      }
+    }
+  ]
+}

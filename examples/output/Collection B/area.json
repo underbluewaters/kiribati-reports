@@ -1,0 +1,50 @@
+{
+  "sketchArea": [
+    {
+      "sketchName": "Area C",
+      "area": 25187133071.984127,
+      "groupAreas": [
+        {
+          "islandGroup": "Phoenix Group",
+          "area": 25187133071.984127,
+          "fractionOfGroup": 0.0336260094963459
+        }
+      ]
+    },
+    {
+      "sketchName": "Area B",
+      "area": 13864049473.343779,
+      "groupAreas": [
+        {
+          "islandGroup": "Gilbert Islands",
+          "area": 13864049473.343779,
+          "fractionOfGroup": 0.013100185481631227
+        }
+      ]
+    },
+    {
+      "sketchName": "Around an Atoll",
+      "area": 832360081.9222115,
+      "groupAreas": [
+        {
+          "islandGroup": "Phoenix Group",
+          "area": 832360081.9222115,
+          "fractionOfGroup": 0.0011112399310832203
+        }
+      ]
+    },
+    {
+      "sketchName": "Area A",
+      "area": 9964623905.21094,
+      "groupAreas": [
+        {
+          "islandGroup": "Gilbert Islands",
+          "area": 9964623905.21094,
+          "fractionOfGroup": 0.009415605567763176
+        }
+      ]
+    }
+  ],
+  "totalArea": 49848166532.46105,
+  "eezArea": 3455932746348.7095
+}
