@@ -62,10 +62,9 @@ export const DeepwaterBioregions: React.FunctionComponent<GeogProp> = (
     >
       {(data: ReportResult) => {
         const percMetricIdName = `${metricGroup.metricId}Perc`;
-
         const valueMetrics = metricsWithSketchId(
           data.metrics.filter((m) => m.metricId === metricGroup.metricId && (showFullList || m.value > 0)),
-          [id],
+          [id.toString()],
         );
         const percentMetrics = toPercentMetric(valueMetrics, precalcMetrics, {
           metricIdOverride: percMetricIdName,

@@ -66,24 +66,23 @@ export async function area(
   });
 
   // Support sketches crossing antimeridian
-  const splitSketch = splitSketchAntimeridian(sketch);
+  const normalizedSketch = splitSketchAntimeridian(sketch);
 
-  // Clip to portion of sketch within current geography
-  const clippedSketch: SketchCollection<Polygon | MultiPolygon> | Sketch<Polygon | MultiPolygon> = await clipToGeography(splitSketch, curGeography);
+  // // Clip to portion of sketch within current geography
+  // const clippedSketch: SketchCollection<Polygon | MultiPolygon> | Sketch<Polygon | MultiPolygon> = await clipToGeography(splitSketch, curGeography);
 
   const results: AreaResults = {
     sketchArea: [],
     totalArea: 0,
     eezArea: Object.keys(islandGroupAreas).reduce((acc, cur) => acc + islandGroupAreas[cur], 0)
   }
-  for (const feature of toSketchArray(clippedSketch)) {
+  for (const feature of toSketchArray(normalizedSketch)) {
     const r: SketchAreaResults = {
       sketchName: feature.properties.name || "",
       area: 0,
       groupAreas: []
     };
     for (const group of (eez as FeatureCollection<Polygon | MultiPolygon>).features) {
-      console.log('group', group.properties?.UNION);
       const clipped = intersect<Polygon | MultiPolygon>(featureCollection([feature, group]));
       if (clipped && clipped.geometry) {
         const islandGroup = group.properties?.UNION;
@@ -104,7 +103,7 @@ export async function area(
 }
 
 export default new GeoprocessingHandler(area, {
-  title: "calculateArea",
+  title: "area",
   description: "Function description",
   timeout: 30, // seconds
   memory: 1024, // megabytes

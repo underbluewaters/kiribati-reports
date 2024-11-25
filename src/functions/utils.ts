@@ -1,7 +1,6 @@
 import { BBox, Feature, loadFgb, MultiPolygon, Polygon, Sketch, SketchCollection, splitFeatureAntimeridian, toSketchArray } from "@seasketch/geoprocessing";
 import { createHash } from "crypto";
 import bbox from "@turf/bbox";
-import { bboxPolygon } from "@turf/turf";
 
 /**
  * Loads features from a FlatGeobuf referenced by URL, which intersect the
@@ -31,7 +30,6 @@ export async function getFeaturesForSketchBBoxes(sketch: Sketch | SketchCollecti
   await Promise.all(toSketchArray(sketch).map(async (sketch) => {
     const box = bbox(sketch);
     const splitBoxes = splitBBoxAtAntimeridian(box) as BBox[];
-    console.log('splitBoxes', splitBoxes);
     const results = (await Promise.all(splitBoxes.map(async (box) => {
       return await loadFgb<Feature<Polygon | MultiPolygon>>(fgbUrl, box);
     }))).flat();
@@ -75,21 +73,30 @@ export function fillBins(bins: Bin[], min: number, max: number, value: number) {
   }
 }
 
-export function splitBBoxAtAntimeridian(bbox: number[]) {
-  // first, test whether bbox crosses antimeridian
+/**
+ * Splits a bounding box at the antimeridian if necessary.
+ * If the bounding box crosses the antimeridian, it returns two parts.
+ * Otherwise, it returns the normalized original bounding box.
+ * 
+ * @param bbox Bounding box [minX, minY, maxX, maxY]
+ * @returns Array of bounding boxes
+ */
+export function splitBBoxAtAntimeridian(bbox: number[]): number[][] {
   const [minX, minY, maxX, maxY] = bbox;
 
-  // Normalize longitudes to the [-180, 180] range if needed
+  // Normalize longitudes to the [-180, 180] range
   const normMinX = ((minX + 180) % 360 + 360) % 360 - 180;
   const normMaxX = ((maxX + 180) % 360 + 360) % 360 - 180;
 
-  // If the normalized bbox crosses the antimeridian, splitting is needed
+  // Check if the bbox crosses the antimeridian
   if (normMinX > normMaxX) {
+    // Split the bounding box into two parts
     return [
-      [normMinX, minY, 180, maxY],
-      [-180, minY, normMaxX, maxY],
+      [normMinX, minY, 180, maxY],  // Right half (positive longitudes)
+      [-180, minY, normMaxX, maxY], // Left half (negative longitudes)
     ];
-  } else {
-    return [bbox];
   }
+
+  // If no split is needed, return the normalized bbox
+  return [[normMinX, minY, normMaxX, maxY]];
 }

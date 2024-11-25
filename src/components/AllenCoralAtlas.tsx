@@ -3,6 +3,7 @@ import { Trans, useTranslation } from "react-i18next";
 import {
   ClassTable,
   Collapse,
+  LayerToggle,
   ReportError,
   ResultsCard,
   SketchClassTable,
@@ -61,7 +62,7 @@ export const AllenCoralAtlas: React.FunctionComponent<GeogProp> = (props) => {
 
         const geomorphicValueMetrics = metricsWithSketchId(
           data.metrics.filter((m) => m.metricId === geomorphicMetricGroup.metricId),
-          [id],
+          [id.toString()],
         );
         const geomorphicPercentMetrics = toPercentMetric(geomorphicValueMetrics, geomorphicPrecalcMetrics, {
           metricIdOverride: geomorphicPercMetricIdName,
@@ -81,7 +82,7 @@ export const AllenCoralAtlas: React.FunctionComponent<GeogProp> = (props) => {
 
         const benthicValueMetrics = metricsWithSketchId(
           data.metrics.filter((m) => m.metricId === benthicMetricGroup.metricId),
-          [id],
+          [id.toString()],
         );
         const benthicPercentMetrics = toPercentMetric(benthicValueMetrics, benthicPrecalcMetrics, {
           metricIdOverride: benthicPercMetricIdName,
@@ -97,6 +98,20 @@ export const AllenCoralAtlas: React.FunctionComponent<GeogProp> = (props) => {
           }
         })();
 
+        const noData = false && !benthicValueMetrics.find((m) => m.value > 0) && !geomorphicValueMetrics.find((m) => m.value > 0);
+
+        if (noData) {
+          return (
+            <ReportError>
+              <p>
+                <Trans i18nKey="NoAllenCoralAtlas">
+                  This sketch contains no reef-associated geomorphic or benthic features.
+                </Trans>
+              </p>
+            </ReportError>
+          );
+        }
+
         return (
           <ReportError>
             <p>
@@ -105,6 +120,7 @@ export const AllenCoralAtlas: React.FunctionComponent<GeogProp> = (props) => {
               </Trans>
             </p>
             <h4 style={{ fontWeight: 500 }}>{t("Geomorphic Features")}</h4>
+            <LayerToggle label={t("show geomorphic features on the map")} layerId="SyudkTui8" />
             <ClassTable
               rows={geomorphicMetrics}
               metricGroup={geomorphicMetricGroup}
@@ -151,6 +167,7 @@ export const AllenCoralAtlas: React.FunctionComponent<GeogProp> = (props) => {
             )}
 
             <h4 style={{ fontWeight: 500 }}>{t("Benthic Features")}</h4>
+            <LayerToggle label={t("show benthic features on the map")} layerId="wuUiUibYq" />
             <ClassTable
               rows={benthicMetrics}
               metricGroup={benthicMetricGroup}

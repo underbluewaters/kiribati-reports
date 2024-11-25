@@ -22,7 +22,7 @@ import {
 import project from "../../project/projectClient.js";
 import { clipToGeography } from "../util/clipToGeography.js";
 import { bbox, featureCollection, intersect } from "@turf/turf";
-import { fillBins, makeBins } from "./utils.js";
+import { fillBins, getFeaturesForSketchBBoxes, makeBins } from "./utils.js";
 import calcArea from "@turf/area";
 
 export type DepthResultType = {
@@ -43,14 +43,7 @@ export async function depth(
 ): Promise<DepthResultType> {
   const ds = project.getDatasourceById("bathy");
   const url = project.getDatasourceUrl(ds);
-  // Check for client-provided geography, fallback to first geography assigned as default-boundary in metrics.json
-  const geographyId = getFirstFromParam("geographyIds", extraParams);
-  const curGeography = project.getGeographyById(geographyId, {
-    fallbackGroup: "default-boundary",
-  });
-  const splitSketch = splitSketchAntimeridian(sketch);
-  // Clip portion of sketch outside geography features
-  const clippedSketch = await clipToGeography(splitSketch, curGeography);
+  const normalizedSketch = splitSketchAntimeridian(sketch);
   const bins = makeBins(0, 7000, 100);
   const result = {
     minDepth: 9999999999,
@@ -58,9 +51,8 @@ export async function depth(
     meanDepth: 0,
     histogram: {},
   }
-  for (const sketch of toSketchArray(clippedSketch)) {
-    const sketchBox = sketch.bbox || bbox(sketch);
-    const depthFeatures = await loadFgb<Feature<Polygon | MultiPolygon>>(url, sketchBox);
+  for (const sketch of toSketchArray(normalizedSketch)) {
+    const depthFeatures = await getFeaturesForSketchBBoxes(normalizedSketch, url);
     for (const feature of depthFeatures) {
       const clipped = intersect(featureCollection([feature, sketch]));
       if (clipped) {

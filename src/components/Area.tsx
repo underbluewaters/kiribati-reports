@@ -25,11 +25,18 @@ export const Area: React.FunctionComponent<GeogProp> = (props) => {
     fallbackGroup: "default-boundary",
   });
 
+
+
   return (
     <ResultsCard title={t("Area")} functionName="area">
       {(data: AreaResults) => {
+        const areaByGroup = data.sketchArea.reduce((acc, sketchArea) => {
+          sketchArea.groupAreas.forEach(groupArea => {
+            acc[groupArea.islandGroup] = groupArea.area;
+          });
+          return acc;
+        }, {} as { [groupName: string]: number });
         const sketchStr = isCollection ? t("sketch collection") : t("sketch");
-        console.log(data);
         if (data.sketchArea.length === 1 && data.sketchArea[0].groupAreas.length === 1) {
           return (
             <ReportError>
@@ -63,11 +70,11 @@ export const Area: React.FunctionComponent<GeogProp> = (props) => {
                   </tr>
                 </thead>
                 <tbody>
-                  {data.sketchArea[0].groupAreas.map((group) => (
-                    <tr key={group.islandGroup}>
-                      <td>{group.islandGroup}</td>
-                      <td style={{ textAlign: "center" }}>{(Math.round(group.area * 1e-6)).toLocaleString()}</td>
-                      <td style={{ textAlign: "center" }}>{PercentFormatter.format(group.fractionOfGroup)}</td>
+                  {Object.keys(areaByGroup).map((groupName) => (
+                    <tr key={groupName}>
+                      <td>{groupName}</td>
+                      <td style={{ textAlign: "center" }}>{(Math.round(areaByGroup[groupName] * 1e-6)).toLocaleString()}</td>
+                      <td style={{ textAlign: "center" }}>{PercentFormatter.format(areaByGroup[groupName] / data.totalArea)}</td>
                     </tr>
                   ))}
                 </tbody>

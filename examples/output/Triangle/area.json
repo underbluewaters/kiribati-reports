@@ -1,0 +1,17 @@
+{
+  "sketchArea": [
+    {
+      "sketchName": "Triangle",
+      "area": 3910830189.972676,
+      "groupAreas": [
+        {
+          "islandGroup": "Gilbert Islands",
+          "area": 3910830189.972676,
+          "fractionOfGroup": 0.00369535617817214
+        }
+      ]
+    }
+  ],
+  "totalArea": 3910830189.972676,
+  "eezArea": 3455932746348.7095
+}

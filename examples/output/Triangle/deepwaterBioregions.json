@@ -1,0 +1,598 @@
+{
+  "metrics": [
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Boudeuse Ridge",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Central Gilbert",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 3503073805.167695,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Cook Island  - Kiribati Abyssal Range",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Dolmah",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East Line Islands and French Polynesia Northern Tip",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East of Minneapolis Ridge",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East West Christmas Islands Boarders",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "East West Kingman and Palmyra",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Flint and Vostok Islands Deep",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Gardner Island and North Cooks Boarder",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Gilbert Ridge",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 15658076.08713,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Gilbert, Tuvalu High Seas",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Jarvis Deep",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Keats Reef Deep",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "King Seamount",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kingman, Palmyra and North Line Group",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kingsman Basin and Magellan Rise",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kiribati - High Seas Line Island Group & Menard Ridge",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kiribati - Howard and Baker Island Abyssal Range",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Kiritimati Deep",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Lakina to Northern Tokelau Submerged Seamounts",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Line and North French Polynesia",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Line East West Boarders and High Seas",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Line, Cooks and French Polynesia High Seas",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Majuro, Arno and Mili Atolls",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Malden and Schlanger",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Manihiki and Tokelau to South Phoenix",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Marshall and Gilbert High Seas",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Nauru Marshall and Gilbert Abyssal",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North Ahe and Manihi",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North Cooks, Line and High Seas",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North East Christmas Boarder",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North French Polynesia",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "North Kingman Reef",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Northeast Gilbert",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Northeast Phoenix and High Seas",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Northeast Tuvalu to Southern Phoenix Boarder",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Nova Trough and Celestial Seamount",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Penrhyn Basin",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Phoenix Seamounts",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Rungata, Tamana and Arorae DeeP",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Seamounts of Micronesia",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South (Banaba) Ocean Island",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South Christmas Island",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South Gilbert Boarder",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "South Nauru and Gilbert Boarder",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Southern Marshall Island Abyssal Range",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Starbuck and high seas",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Tabuaeran/Fanning Deep",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Tuvalu Nui, Boarder and Cooper Seamount",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "US and Line Islands Group High Seas",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Victoria Fracture Zone",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Washington Island and Christmas Ridge",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "deepwaterBioregions",
+      "classId": "Winslow Reef Deep",
+      "sketchId": "55078",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "Triangle"
+      }
+    }
+  ]
+}

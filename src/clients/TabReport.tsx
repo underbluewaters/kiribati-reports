@@ -13,7 +13,11 @@ import { AllenCoralAtlas } from "../components/AllenCoralAtlas.js";
 const enableAllTabs = false;
 const BaseReport = () => {
   const { t } = useTranslation();
-  const segments = [{ id: "PHYSICAL", label: t("Basics") }, { id: "HABITATS", label: t("Habitats") }, { id: "FISHING", label: t("Fishing") }];
+  const segments = [
+    { id: "PHYSICAL", label: t("Info") },
+    { id: "HABITATS", label: t("Habitats") },
+    // { id: "FISHING", label: t("Fishing") }
+  ];
   const [tab, setTab] = useState<string>("PHYSICAL");
 
   return (

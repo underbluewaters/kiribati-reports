@@ -10,6 +10,7 @@ import {
   isVectorDatasource,
   overlapFeatures,
   getFeatures,
+  splitSketchAntimeridian,
 } from "@seasketch/geoprocessing";
 import bbox from "@turf/bbox";
 import project from "../../project/projectClient.js";
@@ -39,9 +40,8 @@ export async function reefExtent(
   const curGeography = project.getGeographyById(geographyId, {
     fallbackGroup: "default-boundary",
   });
-  // Clip portion of sketch outside geography features
-  const clippedSketch = await clipToGeography(sketch, curGeography);
-  const sketchBox = clippedSketch.bbox || bbox(clippedSketch);
+
+  const normalizedSketch = splitSketchAntimeridian(sketch);
 
   const featuresByDatasource: Record<
     string,
@@ -66,28 +66,27 @@ export async function reefExtent(
         let features =
           featuresByDatasource[curClass.datasourceId];
         if (!features) {
-          features = featuresByDatasource[curClass.datasourceId] = await getFeaturesForSketchBBoxes(clippedSketch, url);
+          features = featuresByDatasource[curClass.datasourceId] = await getFeaturesForSketchBBoxes(normalizedSketch, url);
         }
 
-        console.log("features", features);
 
-        
+
         // If this is a sub-class, filter by class name
         const finalFeatures =
           curClass.classKey && curClass.classId !== `${ds.datasourceId}_all`
             ? features.filter((feat) => {
-                return (
-                  feat.geometry &&
-                  feat.properties![ds.classKeys[0]] === curClass.classId
-                );
-              })
+              return (
+                feat.geometry &&
+                feat.properties![ds.classKeys[0]] === curClass.classId
+              );
+            })
             : features;
 
         // Calculate overlap metrics
         const overlapResult = await overlapFeatures(
           metricGroup.metricId,
           finalFeatures,
-          clippedSketch,
+          normalizedSketch,
         );
 
         return overlapResult.map(

@@ -63,7 +63,7 @@ export const ReefBioregions: React.FunctionComponent<GeogProp> = (props) => {
 
         const valueMetrics = metricsWithSketchId(
           data.metrics.filter((m) => m.metricId === metricGroup.metricId && (showFullList || m.value > 0)),
-          [id],
+          [id.toString()],
         );
         const percentMetrics = toPercentMetric(valueMetrics, precalcMetrics, {
           metricIdOverride: percMetricIdName,

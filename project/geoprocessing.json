@@ -4,14 +4,9 @@
   "region": "us-west-2",
   "clients": [
     {
-      "name": "TabReport",
-      "description": "Report suite with tab navigation",
+      "name": "Kiribati General Purpose Reports",
+      "description": "Reports to support Kiribati MSP",
       "source": "src/clients/TabReport.tsx"
-    },
-    {
-      "name": "SimpleReport",
-      "description": "Sketch size",
-      "source": "src/clients/SimpleReport.tsx"
     }
   ],
   "preprocessingFunctions": [
@@ -24,11 +19,10 @@
     "src/functions/simpleFunction.ts",
     "src/functions/deepwaterBioregions.ts",
     "src/functions/reefBioregions.ts",
-    "src/functions/geomorphicFeatures.ts",
-    "src/functions/benthicFeatures.ts",
     "src/functions/reefExtent.ts",
     "src/functions/depth.ts",
     "src/functions/seamounts.ts",
-    "src/functions/area.ts"
+    "src/functions/area.ts",
+    "src/functions/allenCoralAtlas.ts"
   ]
 }

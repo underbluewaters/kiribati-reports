@@ -6,8 +6,11 @@ import {
   FeatureClipOperation,
   VectorDataSource,
   clipToPolygonFeatures,
+  MultiPolygon,
+  Polygon,
 } from "@seasketch/geoprocessing";
 import { bbox } from "@turf/turf";
+import kiribatiEez from "./kiribati-eez.json";
 
 /**
  * Preprocessor takes a Polygon feature/sketch and returns the portion that
@@ -38,15 +41,10 @@ export async function clipToOceanEez(
   };
 
   // Keep portion of sketch within EEZ
-
-  const eezDatasource = new VectorDataSource(
-    "https://d3muy0hbwp5qkl.cloudfront.net",
-  );
-  const eezFC = await eezDatasource.fetchUnion(featureBox, "UNION");
   // Optionally filter to single EEZ polygon by UNION name
   const keepInsideEez: FeatureClipOperation = {
     operation: "intersection",
-    clipFeatures: eezFC.features,
+    clipFeatures: kiribatiEez.features as Feature<Polygon | MultiPolygon>[],
   };
 
   return clipToPolygonFeatures(feature, [eraseLand, keepInsideEez], {
@@ -56,7 +54,7 @@ export async function clipToOceanEez(
 
 export default new PreprocessingHandler(clipToOceanEez, {
   title: "clipToOceanEez",
-  description: "Example-description",
+  description: "Erases land and any area outside the Kiribati EEZ",
   timeout: 40,
   requiresProperties: [],
   memory: 1024,

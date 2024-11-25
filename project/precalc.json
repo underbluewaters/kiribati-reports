@@ -1,115 +1,451 @@
 [
   {
-    "geographyId": "phoenix-islands",
+    "geographyId": "world",
     "metricId": "area",
-    "classId": "benthic-features-Coral/Algae",
+    "classId": "bathy--100",
     "sketchId": null,
     "groupId": null,
-    "value": 603692586.6672728
+    "value": 682805391.9551574
   },
   {
-    "geographyId": "phoenix-islands",
+    "geographyId": "world",
     "metricId": "area",
-    "classId": "benthic-features-Microalgal Mats",
+    "classId": "bathy--100",
     "sketchId": null,
     "groupId": null,
-    "value": 58525966.88153359
+    "value": 867307480.0361654
   },
   {
-    "geographyId": "phoenix-islands",
+    "geographyId": "world",
     "metricId": "area",
-    "classId": "benthic-features-Rock",
+    "classId": "bathy--1000",
     "sketchId": null,
     "groupId": null,
-    "value": 436839145.9122119
+    "value": 1740692842.04181
   },
   {
-    "geographyId": "phoenix-islands",
+    "geographyId": "world",
     "metricId": "area",
-    "classId": "benthic-features-Rubble",
+    "classId": "bathy--1000",
     "sketchId": null,
     "groupId": null,
-    "value": 315682783.33555025
+    "value": 2538391224.2170267
   },
   {
-    "geographyId": "phoenix-islands",
+    "geographyId": "world",
     "metricId": "area",
-    "classId": "benthic-features-Sand",
+    "classId": "bathy--1250",
     "sketchId": null,
     "groupId": null,
-    "value": 1008979480.9191589
+    "value": 2538391224.2170267
   },
   {
-    "geographyId": "phoenix-islands",
+    "geographyId": "world",
     "metricId": "area",
-    "classId": "benthic-features-Seagrass",
+    "classId": "bathy--1250",
     "sketchId": null,
     "groupId": null,
-    "value": 53697653.00205911
+    "value": 4621063267.2458105
   },
   {
-    "geographyId": "phoenix-islands",
+    "geographyId": "world",
     "metricId": "area",
-    "classId": "benthic-features-total",
+    "classId": "bathy--1500",
     "sketchId": null,
     "groupId": null,
-    "value": 2477417616.7178097
+    "value": 4621063267.2458105
   },
   {
-    "geographyId": "phoenix-islands",
-    "metricId": "count",
-    "classId": "benthic-features-Coral/Algae",
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--1500",
     "sketchId": null,
     "groupId": null,
-    "value": 50425
+    "value": 6435521743.401861
   },
   {
-    "geographyId": "phoenix-islands",
-    "metricId": "count",
-    "classId": "benthic-features-Microalgal Mats",
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--1750",
     "sketchId": null,
     "groupId": null,
-    "value": 11405
+    "value": 6435521743.401861
   },
   {
-    "geographyId": "phoenix-islands",
-    "metricId": "count",
-    "classId": "benthic-features-Rock",
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--1750",
     "sketchId": null,
     "groupId": null,
-    "value": 36457
+    "value": 10211263458.686962
   },
   {
-    "geographyId": "phoenix-islands",
-    "metricId": "count",
-    "classId": "benthic-features-Rubble",
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--200",
     "sketchId": null,
     "groupId": null,
-    "value": 20954
+    "value": 867307480.0361654
   },
   {
-    "geographyId": "phoenix-islands",
-    "metricId": "count",
-    "classId": "benthic-features-Sand",
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--200",
     "sketchId": null,
     "groupId": null,
-    "value": 50077
+    "value": 353027558.7690281
   },
   {
-    "geographyId": "phoenix-islands",
-    "metricId": "count",
-    "classId": "benthic-features-Seagrass",
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--2000",
     "sketchId": null,
     "groupId": null,
-    "value": 12146
+    "value": 10211263458.686962
   },
   {
-    "geographyId": "phoenix-islands",
-    "metricId": "count",
-    "classId": "benthic-features-total",
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--2000",
     "sketchId": null,
     "groupId": null,
-    "value": 181464
+    "value": 31894065284.586735
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--25",
+    "sketchId": null,
+    "groupId": null,
+    "value": 627649388.3768079
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--250",
+    "sketchId": null,
+    "groupId": null,
+    "value": 353027558.7690281
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--250",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1523183766.421224
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--2500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 31894065284.586735
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--2500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 44005377105.36895
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--3000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 44005377105.36895
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--3000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 88249471188.08875
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--3500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 88249471188.08875
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--3500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 173039683526.75995
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--4000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 173039683526.75995
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--4000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 585969719161.5305
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--4500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 585969719161.5305
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--4500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 931048817204.5924
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--50",
+    "sketchId": null,
+    "groupId": null,
+    "value": 627649388.3768079
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--50",
+    "sketchId": null,
+    "groupId": null,
+    "value": 682805391.9551574
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1523183766.421224
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1475159208.7401855
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--5000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 931048817204.5924
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--5000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1142048368397.335
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--5500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1142048368397.335
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--5500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 397600824252.79297
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--6000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 397600824252.79297
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--6000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 21361215317.811253
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--6500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 21361215317.811253
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--6500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 941477221.3466309
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--7000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 941477221.3466309
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--7000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 200184975.50204486
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--750",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1475159208.7401855
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--750",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1740692842.04181
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--7500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 200184975.50204486
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--7500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 172679102.1261813
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--8000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 172679102.1261813
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--8000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 67462478.71548519
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--8500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 67462478.71548519
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--8500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 20283.56211096311
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--9000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 20283.56211096311
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--9000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 4223.052347681787
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy--9500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 4223.052347681787
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy-Gilbert Islands",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1051571908914.8457
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy-Line Islands",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1647345218251.144
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy-Phoenix Islands",
+    "sketchId": null,
+    "groupId": null,
+    "value": 748758307887.0752
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "bathy-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 3447675435053.059
   },
   {
     "geographyId": "world",
@@ -825,6 +1161,462 @@
   },
   {
     "geographyId": "world",
+    "metricId": "area",
+    "classId": "seamounts-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 190339347976.55655
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--100",
+    "sketchId": null,
+    "groupId": null,
+    "value": 202
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--100",
+    "sketchId": null,
+    "groupId": null,
+    "value": 171
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--1000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 132
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--1000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 175
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--1250",
+    "sketchId": null,
+    "groupId": null,
+    "value": 175
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--1250",
+    "sketchId": null,
+    "groupId": null,
+    "value": 236
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--1500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 236
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--1500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 305
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--1750",
+    "sketchId": null,
+    "groupId": null,
+    "value": 305
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--1750",
+    "sketchId": null,
+    "groupId": null,
+    "value": 446
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--200",
+    "sketchId": null,
+    "groupId": null,
+    "value": 171
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--200",
+    "sketchId": null,
+    "groupId": null,
+    "value": 158
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--2000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 446
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--2000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 607
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--25",
+    "sketchId": null,
+    "groupId": null,
+    "value": 239
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--250",
+    "sketchId": null,
+    "groupId": null,
+    "value": 158
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--250",
+    "sketchId": null,
+    "groupId": null,
+    "value": 138
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--2500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 607
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--2500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 912
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--3000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 912
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--3000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1129
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--3500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1129
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--3500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1660
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--4000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1660
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--4000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 2449
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--4500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 2449
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--4500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 4348
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--50",
+    "sketchId": null,
+    "groupId": null,
+    "value": 239
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--50",
+    "sketchId": null,
+    "groupId": null,
+    "value": 202
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 138
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 127
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--5000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 4348
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--5000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 4130
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--5500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 4130
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--5500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 2105
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--6000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 2105
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--6000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 258
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--6500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 258
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--6500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 25
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--7000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 25
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--7000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 10
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--750",
+    "sketchId": null,
+    "groupId": null,
+    "value": 127
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--750",
+    "sketchId": null,
+    "groupId": null,
+    "value": 132
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--7500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 10
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--7500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 4
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--8000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 4
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--8000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 3
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--8500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 3
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--8500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--9000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--9000",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy--9500",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy-Gilbert Islands",
+    "sketchId": null,
+    "groupId": null,
+    "value": 4904
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy-Line Islands",
+    "sketchId": null,
+    "groupId": null,
+    "value": 9159
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy-Phoenix Islands",
+    "sketchId": null,
+    "groupId": null,
+    "value": 5908
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "bathy-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 19971
+  },
+  {
+    "geographyId": "world",
     "metricId": "count",
     "classId": "benthic-features-Coral/Algae",
     "sketchId": null,
@@ -1534,5 +2326,13 @@
     "sketchId": null,
     "groupId": null,
     "value": 3018
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "seamounts-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 199
   }
 ]

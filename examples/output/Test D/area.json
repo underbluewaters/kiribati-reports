@@ -1,0 +1,17 @@
+{
+  "sketchArea": [
+    {
+      "sketchName": "Test D",
+      "area": 46919560563.45432,
+      "groupAreas": [
+        {
+          "islandGroup": "Gilbert Islands",
+          "area": 46919560563.45432,
+          "fractionOfGroup": 0.04433444552254882
+        }
+      ]
+    }
+  ],
+  "totalArea": 46919560563.45432,
+  "eezArea": 3455932746348.7095
+}

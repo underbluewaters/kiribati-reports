@@ -36,37 +36,14 @@ export async function allenCoralAtlas(
   const curGeography = project.getGeographyById(geographyId, {
     fallbackGroup: "default-boundary",
   });
-  const splitSketch = splitSketchAntimeridian(sketch);
-
-  if (sketch.properties.name === "Spans Island Groups") {
-    console.log('splitSketch', JSON.stringify(splitSketch));
-    const box = bbox(splitSketch);
-    console.log('before split bbox', bbox(sketch));
-    console.log('splitSketch bbox', bbox(splitSketch));
-    console.log(JSON.stringify(bboxPolygon(bbox(splitSketch))));
-    const splitBBoxes = splitBBoxAtAntimeridian(box);
-    console.log('split box', splitBBoxes);
-    if (splitBBoxes.length > 1) {
-      for (const b of splitBBoxes) {
-        console.log(JSON.stringify(bboxPolygon(b as BBox)));
-      }
-    }
-  }
-  // console.log('splitSketch', JSON.stringify(splitSketch));
-  // Clip portion of sketch outside geography features
-  const clippedSketch = await clipToGeography(splitSketch, curGeography);
-  if (sketch.properties.name === "Spans Island Groups") {
-    console.log('bbox after clip', bbox(clippedSketch));
-  }
+  const normalizedSketch = splitSketchAntimeridian(sketch);
 
   const featuresByDatasource: Record<
     string,
     Feature<Polygon | MultiPolygon>[]
   > = {};
 
-  if (sketch.properties.name === "Spans Island Groups") {
-    console.log('clippedSketch', clippedSketch);
-  }
+
   // console.log(bbox(clippedSketch), bbox(splitSketch));
   // Calculate overlap metrics for each class in metric group
   let metricGroup = project.getMetricGroup("geomorphicFeatures");
@@ -85,10 +62,7 @@ export async function allenCoralAtlas(
         let features =
           featuresByDatasource[curClass.datasourceId];
         if (!features) {
-          features = featuresByDatasource[curClass.datasourceId] = await getFeaturesForSketchBBoxes(clippedSketch, url);
-        }
-        if (sketch.properties.name === "Spans Island Groups") {
-          console.log('related features', features.length);
+          features = featuresByDatasource[curClass.datasourceId] = await getFeaturesForSketchBBoxes(normalizedSketch, url);
         }
 
         // If this is a sub-class, filter by class name
@@ -106,7 +80,7 @@ export async function allenCoralAtlas(
         const overlapResult = await overlapFeatures(
           metricGroup.metricId,
           finalFeatures,
-          clippedSketch,
+          normalizedSketch,
         );
 
         return overlapResult.map(
@@ -136,7 +110,7 @@ export async function allenCoralAtlas(
         let features =
           featuresByDatasource[curClass.datasourceId];
         if (!features) {
-          features = featuresByDatasource[curClass.datasourceId] = await getFeaturesForSketchBBoxes(clippedSketch, url);
+          features = featuresByDatasource[curClass.datasourceId] = await getFeaturesForSketchBBoxes(normalizedSketch, url);
         }
 
         // If this is a sub-class, filter by class name
@@ -154,7 +128,7 @@ export async function allenCoralAtlas(
         const overlapResult = await overlapFeatures(
           metricGroup.metricId,
           finalFeatures,
-          clippedSketch,
+          normalizedSketch,
         );
 
         return overlapResult.map(
@@ -178,7 +152,7 @@ export async function allenCoralAtlas(
 export default new GeoprocessingHandler(allenCoralAtlas, {
   title: "allenCoralAtlas",
   description: "Evaluate Geomorphic and Benthic Features",
-  timeout: 500, // seconds
-  memory: 4096, // megabytes
+  timeout: 900, // seconds
+  memory: 2048, // megabytes
   executionMode: "async",
 });

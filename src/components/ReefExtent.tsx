@@ -59,7 +59,7 @@ export const ReefExtent: React.FunctionComponent<GeogProp> = (props) => {
 
         const valueMetrics = metricsWithSketchId(
           data.metrics.filter((m) => m.metricId === metricGroup.metricId),
-          [id],
+          [id.toString()],
         );
         const percentMetrics = toPercentMetric(valueMetrics, precalcMetrics, {
           metricIdOverride: percMetricIdName,

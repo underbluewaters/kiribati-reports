@@ -17,6 +17,7 @@ import project from "../../project/projectClient.js";
 import { clipToGeography } from "../util/clipToGeography.js";
 import { bbox, feature, featureCollection, intersect } from "@turf/turf";
 import calcArea from "@turf/area";
+import { getFeaturesForSketchBBoxes } from "./utils.js";
 
 /** Generated using data/bin/precalcExtra.ts */
 const TOTAL_EEZ_AREA = 190339.3521636479;
@@ -49,14 +50,7 @@ export async function seamounts(
 ): Promise<SeamountsResults> {
   const ds = project.getDatasourceById("seamounts");
   const url = project.getDatasourceUrl(ds);
-  // Check for client-provided geography, fallback to first geography assigned as default-boundary in metrics.json
-  const geographyId = getFirstFromParam("geographyIds", extraParams);
-  const curGeography = project.getGeographyById(geographyId, {
-    fallbackGroup: "default-boundary",
-  });
-  const splitSketch = splitSketchAntimeridian(sketch);
-  // Clip portion of sketch outside geography features
-  const clippedSketch = await clipToGeography(splitSketch, curGeography);
+  const normalizedSketch = splitSketchAntimeridian(sketch);
   const results: SeamountsResults = {
     count: 0,
     countEEZ: TOTAL_EEZ_COUNT,
@@ -65,9 +59,8 @@ export async function seamounts(
   }
   const seamountIds = new Set<string>();
   let unknownSeamountCount = 0;
-  for (const sketch of toSketchArray(clippedSketch)) {
-    const sketchBox = sketch.bbox || bbox(sketch);
-    const seamountFeatures = await loadFgb<Feature<Polygon | MultiPolygon>>(url, sketchBox);
+  for (const sketch of toSketchArray(normalizedSketch)) {
+    const seamountFeatures = await getFeaturesForSketchBBoxes(normalizedSketch, url);
     for (const feature of seamountFeatures) {
       const clipped = intersect(featureCollection([feature, sketch]));
       if (clipped) {

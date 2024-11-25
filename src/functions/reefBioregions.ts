@@ -20,7 +20,6 @@ import {
   rekeyMetrics,
   sortMetrics,
 } from "@seasketch/geoprocessing/client-core";
-import { clipToGeography } from "../util/clipToGeography.js";
 import { getFeaturesForSketchBBoxes } from "./utils.js";
 
 /**
@@ -40,10 +39,7 @@ export async function reefBioregions(
   const curGeography = project.getGeographyById(geographyId, {
     fallbackGroup: "default-boundary",
   });
-  const splitSketch = splitSketchAntimeridian(sketch);
-  // Clip portion of sketch outside geography features
-  const clippedSketch = await clipToGeography(splitSketch, curGeography);
-  const sketchBox = clippedSketch.bbox || bbox(clippedSketch);
+  const normalizedSketch = splitSketchAntimeridian(sketch);
 
   const featuresByDatasource: Record<
     string,
@@ -68,7 +64,7 @@ export async function reefBioregions(
         let features =
           featuresByDatasource[curClass.datasourceId];
         if (!features) {
-          features = featuresByDatasource[curClass.datasourceId] = await getFeaturesForSketchBBoxes(clippedSketch, url);
+          features = featuresByDatasource[curClass.datasourceId] = await getFeaturesForSketchBBoxes(normalizedSketch, url);
         }
 
         // If this is a sub-class, filter by class name
@@ -86,7 +82,7 @@ export async function reefBioregions(
         const overlapResult = await overlapFeatures(
           metricGroup.metricId,
           finalFeatures,
-          clippedSketch,
+          normalizedSketch,
         );
 
         return overlapResult.map(

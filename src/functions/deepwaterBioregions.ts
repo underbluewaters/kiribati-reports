@@ -45,14 +45,7 @@ export async function deepwaterBioregions(
   });
 
   // Support sketches crossing antimeridian
-  const splitSketch = splitSketchAntimeridian(sketch);
-
-  // Clip to portion of sketch within current geography
-  // @ts-ignore
-  const clippedSketch = await clipToGeography(splitSketch, curGeography);
-
-  // Get bounding box of sketch remainder
-  const sketchBox = clippedSketch.bbox || bbox(clippedSketch);
+  const normalizedSketch = splitSketchAntimeridian(sketch);
 
   // Chached features
   const cachedFeatures: Record<string, Feature<Polygon | MultiPolygon>[]> = {};
@@ -73,27 +66,27 @@ export async function deepwaterBioregions(
 
         // Fetch features overlapping with sketch, pull from cache if already fetched
         let features =
-        cachedFeatures[curClass.datasourceId];
+          cachedFeatures[curClass.datasourceId];
         if (!cachedFeatures[curClass.datasourceId]) {
-          features = cachedFeatures[curClass.datasourceId] = await getFeaturesForSketchBBoxes(clippedSketch, url);
+          features = cachedFeatures[curClass.datasourceId] = await getFeaturesForSketchBBoxes(normalizedSketch, url);
         }
 
         // If this is a sub-class, filter by class name
         const finalFeatures =
           curClass.classKey && curClass.classId !== `${ds.datasourceId}_all`
             ? features.filter((feat) => {
-                return (
-                  feat.geometry &&
-                  feat.properties![ds.classKeys[0]] === curClass.classId
-                );
-              })
+              return (
+                feat.geometry &&
+                feat.properties![ds.classKeys[0]] === curClass.classId
+              );
+            })
             : features;
 
         // Calculate overlap metrics
         const overlapResult = await overlapFeatures(
           metricGroup.metricId,
           finalFeatures,
-          clippedSketch,
+          normalizedSketch,
         );
 
         return overlapResult.map(

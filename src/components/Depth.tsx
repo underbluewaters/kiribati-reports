@@ -67,16 +67,13 @@ export function Histogram({ data, meanDepth, minDepth, maxDepth, unit }: { data:
   const minBucketValue = Math.min(...Object.keys(data).map(Number));
   const maxBucketValue = Math.max(...Object.keys(data).map(Number));
   const values = Object.keys(data);
-  console.log({ values })
   const step = Number(values[1]) - Number(values[0]);
   const maxScaleValue = Number(values[values.length - 1]) + step;
   const minScaleValue = values[0];
-  console.log('step', step);
   // find %-left marker should be positioned at
   const meanDepthPosition = ((meanDepth - minBucketValue) / (maxBucketValue - minBucketValue)) * 100;
   const maxDepthPosition = ((maxDepth - minBucketValue) / (maxBucketValue - minBucketValue)) * 100;
   const minDepthPosition = ((minDepth - minBucketValue) / (maxBucketValue - minBucketValue)) * 100;
-  console.log(meanDepthPosition);
   return (
     <div>
       {/* <h3>Depth Histogram</h3> */}
